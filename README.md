@@ -8,7 +8,7 @@ Interactive Power BI dashboard analyzing **10K airline passenger survey records*
 1. 0.44 (on a 0–1 scale), indicating generally poor customer sentiment. Eco Plus shows slightly higher satisfaction, likely due to better service expectations being met.
 2. Delays beyond 15 minutes lead to an estimated 32% drop in satisfaction. Reduce delays leads to biggest immediate satisfaction win.
 3. Economy makes up the majority, its lower satisfaction levels heavily drag down overall scores.
-4. No major gender-based satisfaction gapno major gender-based satisfaction gap.
+4. No major gender-based satisfaction gap.
 5. Reduce flight delays and fix core Economy-class services (cleanliness, check-in, boarding) to drive the biggest gain in customer satisfaction.
 
 ## 🔔 Actionable ways to improve customer satisfaction
